@@ -1,9 +1,8 @@
 <h2 align="center">👋 Hi there, I'm Pedro Dias </h2>
 
--   🔭 I’m currently working on Capgemini Engineering
--   📫 How to reach me: Dias.PedroRibeiro@gmail.com
--   😄 Pronouns: He/Him
--   ⚡ Fun fact: If I could have any superpower, it would be teleportation so I could visit every place on earth.
+I am a web developer with over a year of experience creating robust and scalable REST APIs and dynamic and interactive single-page applications using modern front-end frameworks. I have experience SQL and NoSQL databases. I am skilled in using docker for containerization and have deployed applications to cloud platforms like AWS and GCP. I have written unit and integration tests to ensure the quality and reliability of my code.
+
+I recently completed a web development specialization from Instituto Politécnico do Porto, where I gained a comprehensive understanding of web development best practices and design patterns. In addition to my technical skills, I am a strong problem-solver with excellent communication and time management abilities. I am a team player who adapts well to change and is always looking for new opportunities to learn and grow.
 
 <h3>Certifications</h3>
 
@@ -36,7 +35,11 @@ with Python](https://www.coursera.org/account/accomplishments/specialization/cer
 -   💬 Ask me about ...
 -   👯 I’m looking to collaborate on ...
 -   🤔 I’m looking for help with ...
--   🌱 I’m currently learning Math
+-   🌱 I’m currently learning ...
+-   🔭 I’m currently working on Capgemini Engineering
+-   📫 How to reach me: Dias.PedroRibeiro@gmail.com
+-   😄 Pronouns: He/Him
+-   ⚡ Fun fact: If I could have any superpower, it would be teleportation so I could visit every place on earth.
 
 Here are some ideas to get you started:
 
